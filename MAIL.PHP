@@ -3,7 +3,7 @@
 
 $name = $_POST['name'];
 $email= $_POST['email'];
-$subject= $_POST['subject'];
+$subject= $_POST['text'];
 $message= $_POST['message'];
 $to = "subhadeepsinha99@gmail.com";
 $subject = "Mail From website";
